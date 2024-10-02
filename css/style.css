@@ -1,6 +1,6 @@
 body {
     min-height: 100vh;
-    background-color: cornsilk;
+    background-color: 	#eee9c4;
   }
   
   * {
@@ -20,7 +20,7 @@ body {
     padding-bottom: 12px;
   }
   
-  #hero {
+  #title {
     text-align: center;
     padding: 40px 0;
   
